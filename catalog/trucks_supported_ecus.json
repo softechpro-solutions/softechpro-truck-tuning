@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
+  "repository": "softechpro-truck-tuning",
+  "title": "Softechpro Trucks — 12V/24V Heavy-Duty Truck, Bus, Agricultural & Construction ECU Suite",
   "official_url": "https://www.softechpro-solutions.com/trucks/",
-  "ecu_count": 452,
-  "brand_count": 82,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/softechpro-truck-tuning/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
